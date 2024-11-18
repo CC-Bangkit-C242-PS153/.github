@@ -6,7 +6,7 @@
 - Team ID: C242-PS153
 - Advisors:
   - Muhammad Ziyad Al Maudidi (TBA)
-  - Edi Darmawansah (TBA)
+  - Edi Darmawansah (Mentoring done 18th November 2024)
 
 ## Team Members
 
