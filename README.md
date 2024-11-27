@@ -23,3 +23,7 @@
 In today's fast-paced world, maintaining a healthy lifestyle has become increasingly challenging, leading to a rise in various health issues linked to poor health habits. Individuals of all ages are experiencing problems such as obesity, diabetes, and cardiovascular diseases, largely due to inadequate attention to nutrition, sleep, and physical activity. Many people struggle to analyze their daily calorie intake accurately, often resulting in imbalanced diets. Additionally, poor sleep patterns and a lack of regular physical activity contribute significantly to these health concerns. The urgency to adopt healthier habits is critical, as these issues impact communities globally, affecting both urban and rural populations.
 
 To address these pressing challenges, we have developed an application called "FitCal." The primary goal of FitCal is to empower users to maintain a healthy lifestyle through a comprehensive platform that facilitates daily calorie monitoring, sleep pattern analysis, and physical activity tracking. By providing personalized recommendations based on individual health goals, FitCal simplifies the process of tracking dietary habits and encourages users to adopt healthier behaviors.
+
+
+## Cloud Architecture
+![Fitcal Cloud Architecture](https://github.com/user-attachments/assets/38946845-f11e-46b5-96e2-c3ef42427e29)
