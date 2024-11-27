@@ -26,4 +26,5 @@ To address these pressing challenges, we have developed an application called "F
 
 
 ## Cloud Architecture
-![Fitcal Cloud Architecture](https://github.com/user-attachments/assets/38946845-f11e-46b5-96e2-c3ef42427e29)
+![Fitcal Cloud Architecture](https://github.com/user-attachments/assets/aa80c1c2-4400-4802-a315-ece222a522ff)
+
